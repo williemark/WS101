@@ -1,0 +1,125 @@
+#me{ background:yellowgreen;
+    background-repeat: no-repeat; 
+    background-size:cover; 
+    background-attachment: fixed;
+   
+}
+/* #me1{
+    color:blue;
+} */
+#me2{
+    color:navy;
+    text-align:center;
+    font-size: 14mm;
+}#me3{
+    font-family: sans-serif; 
+    color:maroon;
+    font-size:18mm;
+    text-align: center;
+    background-color: transparent;
+   
+}#you{
+    background:palegoldenrod;
+}#you1{
+    color:midnightblue;
+    text-align: center;
+    font-family:serif;
+    font-size: 12mm;
+}#you2{
+    color: red;
+     text-align: center; 
+     font-family:serif;
+     font-size:8mm;
+}#you3{
+    text-align: center;
+    font-size:6mm;
+}#you4{
+    font-size:6mm;
+    font-family: sans-serif;
+    margin: 5%
+}#we{
+    color:gold;
+    text-align:center;
+    background-color:darkgoldenrod;
+}#we1{
+    font-family:Impact;
+    font-size:6mm; 
+    text-align: left;
+}#buttons{
+    background-color: gold;
+    font-family: serif;
+    font-size: 8mm;
+}#last{
+    /* margin: 7%; */
+    font-family:Verdana;
+    font-size: 115%;
+    text-align:Left;
+}#p1 {
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    background-color: black;
+    overflow: hidden;
+}#p1 a{
+    
+    display: inline-block;
+    padding: 12px 14px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    
+}#p1 a:hover:not(.active){
+    background-color: green;
+    color: blue;
+}#p1 a.active{
+    background-color: green;
+    color: black
+}div {
+    
+    margin-left: 0%; 
+}#tab1 a, .tab2{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}#tab1 a:hover, .tab1:hover .tab2{
+    background-color: black;
+}#tab1.tab1{
+    display: inline-block;
+}.tab3{
+    display: none;
+    position: absolute;
+    background-color: grey;
+    min-width: 50px;
+    box-shadow: 0px 8px 16px 0px lightblue;
+    z-index: 1;
+}.tab3 a{
+    color: blue;
+    padding: 12px 14px;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+}.tab3 a:hover{
+    background-color: blue;
+}.tab1:hover .tab3{
+    display: 
+    inline-block;
+}#tab1{
+    float: right;
+}#tab2{
+    background-color: green;
+}#sub {
+    background-color: transparent;
+    border: 1px solid lightblue;
+    color: white;
+    box-shadow: 0px 10px 18px 0px lightskyblue;
+}#btn{
+color:white;
+font-size: 6mm;
+background-color: transparent;
+   
+}#reg{
+font-size: 4mm;
+background-color: transparent;
+}
